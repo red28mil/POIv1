@@ -1,0 +1,24 @@
+{
+  "name": "poiv1",
+  "version": "1.0.0",
+  "description": "Places Of interest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/red28mil/POIv1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2",
+    "@hapi/inert": "^6.0.3",
+    "@hapi/vision": "^6.0.1",
+    "handlebars": "^4.7.7",
+    "hapi": "^18.1.0",
+    "nodejs": "*",
+    "prettier": "^2.2.1"
+  }
+}
